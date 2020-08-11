@@ -1,0 +1,14 @@
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Asap:400,400i,500,500i,700,700i);
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+// font-awesome
+@import "node_modules/font-awesome/scss/font-awesome.scss";
+// jquery-fancybox
+@import "node_modules/jquery-fancybox/source/scss/jquery.fancybox.scss";
+
+@import "./global.scss";
